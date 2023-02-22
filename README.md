@@ -5,3 +5,5 @@ This is a readme file for learning how to finally use Github.  Hopefully, this w
 
 
 Not sure about any of this.
+
+So, I'm evaluating the fork and pull model now.
